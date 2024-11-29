@@ -25,7 +25,7 @@ Dazu steht das [Repository «technical-aspects»](https://github.com/SwissHDS/te
 *	**«Daten Aspekte»** - Daten müssen als strukturierte Produkte im Datenraum ausgetauscht werden. Dieser Bereich dient als Raum zur Klärung von allen Fragen rund um Datenstandards und bietet den nötigen Diskussionsbereich für Umsetzungs- und Implementationsfragen. Offen kritisches, sachlich fundiertes Hinterfragen ist hier ausdrücklich erwünscht. Zusätzlich bietet es den Teilnehmenden die Möglichkeit, den Überblick über laufende Überlegungen zu Datenstandards im Datenraum Gesundheit zu behalten.
 Dazu steht das [Repository «data-aspects»](https://github.com/SwissHDS/data-aspects) zur Verfügung.
 
-Grundsätzliche Informationen zur Partizipationsplattform sowie auch bereichsübergreifende Beschreibungen, insbesondere ein [Glossar](TBD), finden sich im aktuellen [Repository «Overview»](https://github.com/SwissHDS/overview).
+Grundsätzliche Informationen zur Partizipationsplattform sowie auch bereichsübergreifende Beschreibungen, insbesondere ein [Glossar](TBD), finden sich im aktuellen [Repository «overview»](https://github.com/SwissHDS/overview).
 
 Dem Projektteam ist bewusst, dass die Linie zwischen den Themen in den Diskussionen nicht immer scharf getrennt werden kann. Wo nötig, können Diskussionen auch verschoben oder parallel geführt werden.
 
