@@ -14,7 +14,7 @@ Was Sie im gesamten Repository nicht finden werden, ist die offizielle Kommunika
 Um die Diskussionen thematisch zu ordnen, wurden vier Plattformen für Diskussionen rund um den Datenraum Gesundheit geschaffen.
 
 *	**Governance Aspekte** - Der Datenraum Gesundheit wird ohne eine Federated Governance nicht funktioneren können. Dieser Bereich dient als Raum für Diskussionen um alle organisatorischen, regulatorischen und geschäftsbezogenen Fragestellungen im Datenraum Gesundheit. Zusätzlich bietet es den Teilnehmenden die Möglichkeit, den Überblick über laufende Projekte innerhalb und ausserhalb der Bundesverwaltung zu behalten.
-Dazu steht das [Repository «governance-aspects»]([https://github.com/e-id-admin/governance-sounding-board](https://github.com/SwissHDS/governance-aspects)) zur Verfügung.
+Dazu steht das [Repository «governance-aspects»]([https://github.com/SwissHDS/governance-aspects]) zur Verfügung.
 
 *	**«Domänen Aspekte»** - Domänen spielen eine entscheidende Rolle im Datenraum Gesundheit. In den Domänen entstehen die fachlichen und administrativen Daten, wleche im Datenraum ausgetauscht werden. Dieser Bereich dient als Raum zur Klärung von Fragen zur Zusammenarbeit der Domänen und ihrer Rolle im Datenraum.
 Dazu steht das [Repository «domain-aspects»](https://github.com/SwissHDS/domain-aspects) zur Verfügung.
